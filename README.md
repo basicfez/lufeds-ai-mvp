@@ -15,3 +15,13 @@ This MVP demonstrates how patients can book "sick-call parcels" that include **p
 ---
 
 ## 🗂 Project Structure
+lufeds-ai-mvp/
+│── data/ # Raw & processed datasets
+│── notebooks/ # Jupyter notebooks for exploration
+│── src/ # Core code (diagnostics, logistics, API, utils)
+│── webapp/ # Frontend MVP (HTML/CSS/JS)
+│── scripts/ # Training, evaluation, prediction, API start
+│── configs/ # Configuration files
+│── models/ # Trained ML models
+│── logs/ # Logs and outputs
+│── tests/ # Unit tests
